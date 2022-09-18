@@ -1,0 +1,96 @@
+.coustom_banar {
+    height: 500px;
+    width: 100%;
+   
+}
+
+.customPhone{
+
+    font-size: 15px;
+}
+.customEmail{
+
+    font-size: 15px;
+}
+
+.navbar_bg{
+
+    background-color:#FC9928 ;
+
+}
+
+
+.logo_cunstom{
+
+width: 500px;
+
+}
+
+.btn_color_custom{
+
+    background-color:#FC9928 ;
+    border:none;
+    padding: 10px 22px;
+    border-radius: 7px;
+
+}
+
+.text-uppercase:hover{
+
+  border-top: 1px solid #FC9928 ;
+  border-bottom: 1px solid #FC9928 ;
+  border-radius: 7px;
+}
+
+.rounded_aline {
+    border-radius: 50%;
+    padding: 28px 27px;
+}
+
+.rounded_aline4 {
+    border-radius: 50%;
+    padding: 28px 22px;
+}
+
+
+
+@media only screen and (min-width: 280px) and  (max-width: 766px) {
+    
+    .rounded_aline {
+    border-radius: 48%;
+    padding: 68px 27px;
+    }
+
+.rounded_aline4 {
+    border-radius: 48%;
+    padding: 68px 27px;
+
+}
+
+}
+
+.rounded_aline4P{
+
+    font-size: 20px;
+}
+
+.card-body:hover{
+
+     transition: 1s;
+    transform: translateY(-20px);
+
+}
+
+.footer_bottom{
+
+    height: 500px;
+    background-color:rgb(6, 2, 24);
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.text-white {
+   
+    text-align: center;
+}
