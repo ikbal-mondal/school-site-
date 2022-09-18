@@ -81,11 +81,10 @@ width: 500px;
 
 }
 
-.footer_bottom{
-
+.footer_bottom {
     height: 500px;
-    background-color:rgb(6, 2, 24);
-    color: white;
+    background-color: rgb(243 240 240);
+    color: #005e79;
     text-align: center;
     margin-top: 20px;
 }
